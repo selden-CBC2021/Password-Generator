@@ -28,6 +28,7 @@ header {
   padding: 20px;
   padding-top: 0px;
   color: hsl(206, 17%, 28%);
+  background-color: darkseagreen;
 }
 
 .card {
@@ -52,6 +53,7 @@ header {
 
 .card-body {
   min-height: 100px;
+
 }
 
 .card-footer {
@@ -64,6 +66,7 @@ header {
   width: 100%;
   background: #e7e9eb;
   height: 2px;
+  background-color: firebrick;
 }
 
 .card-footer::after {
