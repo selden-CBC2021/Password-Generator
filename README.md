@@ -12,7 +12,7 @@ https://selden-cbc2021.github.io/Password-Generator/
 - I watched a few Youtube videos on how to create a password generator with javascript but many of them were without prompts. I got some general logic and some strategies from these videos.
 https://www.youtube.com/watch?v=MW1wz-PAOaE&list=PL5w20T2NCW5Zem95f9HhzpAWRFVUfNbod&index=3&t=1531s
 
-https://www.youtube.com/watch?v=9sT03jEwcaw
+- https://www.youtube.com/watch?v=9sT03jEwcaw
 
 - Finally I combined what I learned from those videos with help from https://developer.mozilla.org/en-US/ and https://www.w3schools.com/ and looking through code from various users on github with how to handle the userinput values/boolean and made an object with keys that took in the user input.
 
