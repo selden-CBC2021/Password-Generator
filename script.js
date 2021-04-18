@@ -88,7 +88,7 @@ console.log(generatedPassword);
 // since generatedPassword logs an array we use .join to convert all elements in that array to a string
 var finalPassword = generatedPassword.join('');
 console.log(finalPassword)
- 
+
 document.querySelector("#password").value = finalPassword;
 
 }
