@@ -4,9 +4,9 @@
 - I learned that there is still a lot I need to learn with regards to functions and setting up variables that require user input. I thought I kind of had the hang of it in class but this was much harder than I thought. The hardest part for me is the logic that goes into the functions and how to break down my thoughts into small steps the computer can handle.
 ## Usage
 - Start by clicking the Generate Password button and entering a length between 8 and 128 characters. Then confirm which character types you want your password to include, if you select none you will have to try again until at least one character type is selected.
-[alt text](assets/images/passwordgenerator.PNG)
+![alt text](assets/images/passwordgenerator.PNG)
 
-https://selden-cbc2021.github.io/Password-Generator/
+- https://selden-cbc2021.github.io/Password-Generator/
 
 ## Credits
 - I watched a few Youtube videos on how to create a password generator with javascript but many of them were without prompts. I got some general logic and some strategies from these videos.
